@@ -1,2 +1,2 @@
 # MorrisLecar
-This is a notebook based on Morris Lecar model of a neuron which simulates the spikes based on different inputs.
+This is a notebook contain simulations based on Morris Lecar model of a neuron which displays current/voltage spikes based on different inputs.
